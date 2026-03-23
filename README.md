@@ -1,5 +1,5 @@
 preprocessing_report.md
-# 🧹 Data Preprocessing Report
+
 
 ## 📌 Project Overview
 This project focuses on preparing customer churn data for machine learning by applying various preprocessing techniques to improve data quality and model performance.
